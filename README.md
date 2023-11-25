@@ -1,2 +1,2 @@
-# where-s-my-money
+# Where's My Money
 React expenses tracker
